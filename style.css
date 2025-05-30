@@ -327,3 +327,7 @@ body {
 .blue-text {
     color: #363D73;
 }
+::placeholder {
+    color: #ccc;
+    text-align: center;
+}
